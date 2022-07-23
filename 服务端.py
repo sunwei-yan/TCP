@@ -2,7 +2,7 @@
 # from matplotlib.pyplot import connect
 # from sqlalchemy import modifier
 # seversocket=socket(AF_INET,SOCK_STREAM)
-# seversocket.bind((gethostname(),5021))
+# seversocket.bind((gethostname(),xxxx))
 # print("准备接受信息")
 # for i in range(1,10):
 #     seversocket.listen(10)
