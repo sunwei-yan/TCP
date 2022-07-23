@@ -1,7 +1,7 @@
 from socket import *
 from unicodedata import name
-hostname="DESKTOP-260UTF0" #192.168.1.3
-port_num=5021
+hostname="x'x'x" 
+port_num=xxx
 # print(socket.gethostname())
 clientsocket=socket(AF_INET,SOCK_STREAM)
 clientsocket.connect((hostname,port_num))
